@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" aria-label="Vexel Labs Logo">
+  <!-- Cube top-left -->
+  <polygon points="8,8 16,4 24,8 16,12" stroke="#6B4FBF" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+  <polygon points="8,8 8,16 16,20 16,12" stroke="#6B4FBF" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+  <polygon points="24,8 24,16 16,20 16,12" stroke="#6B4FBF" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+  <!-- Cube top-right -->
+  <polygon points="24,8 32,4 40,8 32,12" stroke="#6B4FBF" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+  <polygon points="24,8 24,16 32,20 32,12" stroke="#6B4FBF" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+  <polygon points="40,8 40,16 32,20 32,12" stroke="#6B4FBF" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+  <!-- Cube bottom center -->
+  <polygon points="16,24 24,20 32,24 24,28" stroke="#6B4FBF" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+  <polygon points="16,24 16,32 24,36 24,28" stroke="#6B4FBF" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+  <polygon points="32,24 32,32 24,36 24,28" stroke="#6B4FBF" stroke-width="1.5" fill="none" stroke-linejoin="round"/>
+  <!-- Connecting lines -->
+  <line x1="16" y1="20" x2="16" y2="24" stroke="#6B4FBF" stroke-width="1.5"/>
+  <line x1="32" y1="20" x2="32" y2="24" stroke="#6B4FBF" stroke-width="1.5"/>
+</svg>
